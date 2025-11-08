@@ -36,6 +36,9 @@ This project is designed to showcase a modern coffee shop layout with sections l
 ✅ Uploading projects on GitHub  
 
 ---
+🚀 Live Demo
+Click below to visit my live website 🌐👇
+🔗 View Live Site
 
 ### 📜 **License**
 🆓 This project is made for **learning and portfolio purposes only.**
